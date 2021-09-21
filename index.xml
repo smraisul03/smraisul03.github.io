@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>smraisul03@web</title>
+    <link>https://smraisul03.github.io/</link>
+    <description>Recent content on smraisul03@web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Sep 2021 21:12:14 -0400</lastBuildDate><atom:link href="https://smraisul03.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://smraisul03.github.io/post/about/</link>
+      <pubDate>Mon, 20 Sep 2021 21:12:14 -0400</pubDate>
+      
+      <guid>https://smraisul03.github.io/post/about/</guid>
+      <description>Return
+I am a current student at University of South Carolina Upstate, majoring in Computer Science with an expected graduation of 2025. Here are some of my most important infos:
+  Resume
+  Email
+  LinkedIn
+  </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://smraisul03.github.io/post/projects/</link>
+      <pubDate>Mon, 20 Sep 2021 21:12:14 -0400</pubDate>
+      
+      <guid>https://smraisul03.github.io/post/projects/</guid>
+      <description>Return
+simpleCalculator Developed a calculator in Java that can do basic arithmetics calculation, number system conversions, and has additional capabilities.
+Also developed a text editor within the calculator that has the capability to edit, delete, save, and change text to their liking through various fonts and colors.
+simpleClock Developed a clock in Java that can tell the 24 hours time, along with real time date of current standing.
+simplePainter Developed a paint program in Python that can allow user to paint, save, quit, and draw, with a variety of options to their liking through various colors.</description>
+    </item>
+    
+  </channel>
+</rss>
