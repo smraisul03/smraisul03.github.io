@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hi! I&#39;m Raisul.</title>
+    <link>https://example.com/tags/</link>
+    <description>Recent content in Tags on Hi! I&#39;m Raisul.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>artificial intelligence</title>
+      <link>https://example.com/tags/artificial-intelligence/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/artificial-intelligence/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>computer science</title>
+      <link>https://example.com/tags/computer-science/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/computer-science/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>https://example.com/tags/machine-learning/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/machine-learning/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>web development</title>
+      <link>https://example.com/tags/web-development/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/web-development/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>https://example.com/tags/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/index/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
