@@ -12,6 +12,11 @@
   url: "smraisul03@gmail.com"
   noblank: true # open link in current tab
 
+- type: resume
+  icon: "fas fa-file"
+  url: "_data/smraisul03resume-updated09182025.pdf"
+  noblank: true # open link in current tab
+
 - type: rss
   icon: "fas fa-rss"
   noblank: true
