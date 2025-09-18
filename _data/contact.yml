@@ -19,6 +19,10 @@
 
 # Uncomment and complete the url below to enable more contact options
 #
+# - type: rss
+#  icon: "fas fa-rss"
+#  noblank: true
+#
 # - type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
