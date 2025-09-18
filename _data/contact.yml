@@ -14,7 +14,7 @@
 
 - type: resume
   icon: "fas fa-file"
-  url: "smraisul03resume-updated09182025.pdf"
+  url: "/smraisul03resume-updated09182025.pdf/"
   noblank: true # open link in current tab
 
 - type: rss
