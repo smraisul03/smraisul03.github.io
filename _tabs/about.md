@@ -4,9 +4,6 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
-
 Hello everyone, I'm `smraisul03` or S M Raisul Alam-Bhuiyan, although you can call be Raisul. 
 
 This place is my little corner on the internet where I get to share some of my projects, as well as my experiences within the world, and building. 
