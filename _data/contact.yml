@@ -14,7 +14,7 @@
 
 - type: resume
   icon: "fas fa-file"
-  url: "/smraisul03resume-updated09182025.pdf"
+  url: "assets/smraisul03resume-updated09182025.pdf"
   noblank: true # open link in current tab
 
 # Uncomment and complete the url below to enable more contact options
