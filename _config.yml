@@ -120,7 +120,7 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: smraisul03/smraisul03.github.io
-    repo_id:
+    repo_id: R_kgDOPwVucQ
     category:
     category_id:
     mapping: # optional, default to 'pathname'
