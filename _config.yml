@@ -121,8 +121,8 @@ comments:
   giscus:
     repo: smraisul03/smraisul03.github.io
     repo_id: R_kgDOPwVucQ
-    category:
-    category_id:
+    category: General
+    category_id: DIC_kwDOPwVucc4CxgQX
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
